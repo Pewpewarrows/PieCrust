@@ -43,3 +43,4 @@ Notes
 * The bad news with HATEOAS is the bandwidth of sending links over and over again
 * Gzip all the things!
 * CSRF support w/ tokens
+* Content-Range and Range Headers
