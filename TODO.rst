@@ -44,3 +44,4 @@ Notes
 * Gzip all the things!
 * CSRF support w/ tokens
 * Content-Range and Range Headers
+* How to forward/translate "legacy" APIs smoothly into new system. Fake a request?
